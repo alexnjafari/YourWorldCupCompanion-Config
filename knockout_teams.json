@@ -1,5 +1,20 @@
 {
   "teams": {
-    "match_073": { "homeTeamId": "RSA", "awayTeamId": "CAN" }
+    "match_073": { "homeTeamId": "RSA", "awayTeamId": "CAN" },
+    "match_074": { "homeTeamId": "GER", "awayTeamId": "PAR" },
+    "match_075": { "homeTeamId": "NED", "awayTeamId": "MAR" },
+    "match_076": { "homeTeamId": "BRA", "awayTeamId": "JPN" },
+    "match_077": { "homeTeamId": "FRA", "awayTeamId": "SWE" },
+    "match_078": { "homeTeamId": "CIV", "awayTeamId": "NOR" },
+    "match_079": { "homeTeamId": "MEX", "awayTeamId": "ECU" },
+    "match_080": { "homeTeamId": "ENG", "awayTeamId": "COD" },
+    "match_081": { "homeTeamId": "USA", "awayTeamId": "BIH" },
+    "match_082": { "homeTeamId": "BEL", "awayTeamId": "SEN" },
+    "match_083": { "homeTeamId": "POR", "awayTeamId": "CRO" },
+    "match_084": { "homeTeamId": "ESP", "awayTeamId": "AUT" },
+    "match_085": { "homeTeamId": "SUI", "awayTeamId": "ALG" },
+    "match_086": { "homeTeamId": "ARG", "awayTeamId": "CPV" },
+    "match_087": { "homeTeamId": "COL", "awayTeamId": "GHA" },
+    "match_088": { "homeTeamId": "AUS", "awayTeamId": "EGY" }
   }
 }
